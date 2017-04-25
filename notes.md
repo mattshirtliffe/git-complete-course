@@ -9,3 +9,7 @@ git clone git@github.com:mattshirtliffe/git-complete-course.git
 
 status
 git status
+
+Add to staging
+git add notes.md
+git add start.txt
