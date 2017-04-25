@@ -1,2 +1,2 @@
 # git-complete-course
-Git Complete Jason Taylor
+Git Complete
